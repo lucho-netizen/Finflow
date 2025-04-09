@@ -16,6 +16,7 @@ FG_COLOR = "#ffffff"
 HIGHLIGHT = "#4ecca3"
 FONT = ("Segoe UI", 12)
 
+
 # ======================
 # FORMATEO DE MONTO
 # ======================
