@@ -1,0 +1,46 @@
+🔐 Seguridad & Usuarios
+ Reemplazar el login por un sistema con base de datos (usuarios reales, contraseñas hasheadas).
+
+ Soporte para múltiples usuarios y separar sus movimientos.
+
+ Registro de nuevos usuarios desde la app.
+
+📊 Funcionalidades Nuevas
+ Gráfica de evolución del saldo (línea temporal).
+
+ Resumen mensual (ingresos, egresos, saldo). Y permitir exportar 
+
+ Categorías de gasto/ingreso (comida, transporte, salario, etc.).(ok)
+
+
+ Notificación si el saldo baja de cierto umbral (ej: “¡Hora de ahorrar!”).
+
+ Exportar a Excel además de CSV. (ok)
+
+
+ Exportar gráfico como imagen.
+
+ Botón para duplicar movimiento (útil para gastos recurrentes). (ok)
+
+
+🎨 UI / UX
+ Modo claro/oscuro con selector.
+
+ Animaciones suaves al cambiar de secciones.
+
+ Interfaz responsive (aunque sea desktop).
+
+ Mensajes emergentes más estilizados con tkinter.ttk.
+
+ Crearla como aplicacion
+
+⚙️ Mejora técnica
+ Validar que no se repita el mismo movimiento si se hace doble clic.
+
+ Soporte para presionar "Enter" para guardar.
+
+ Ordenar tabla por fecha o monto.
+
+ Filtrar por mes/año.
+
+ Mejorar Ahorros, que pueda guardar cuanto quero ahorrar & Recordatorios(debo pagar una factura o algo)

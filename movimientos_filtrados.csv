@@ -1,0 +1,5 @@
+Tipo,Categoría,Descripción,Monto,Fecha
+Ingreso,Salario,sal,1000000.00,2025-04-08
+Ingreso,Alimentación,almuerzo,17000.00,2025-04-08
+Gasto,Alimentación,almuerzo,32000.00,2025-04-08
+Gasto,Alimentación,ropa2,1000000.00,2025-04-08
